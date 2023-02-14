@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: ExampleSite
+title: Splug Documentation
 paginate: 5
 theme: PaperMod
 
@@ -16,12 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  title: Splug Documentation
+  description: "Site de documentation pour les logiciels de Splug Software"
+  keywords: [documentation, splug, software]
+  author: ["Alexis Udycz", "Vincent Guillemot"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -42,17 +40,8 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
   label:
-    text: "Home"
+    text: "SPlug Docs"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -73,8 +62,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Bienvenue sur notre site !"
+    Content: "Nous sommes une entreprise de développement de solutions informatiques. Notre création la plus récente est **Take'A'Vet**, un logiciel web de gestion pour vétérinaires destiné au grand public."
 
   socialIcons:
     - name: twitter
@@ -115,16 +104,16 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: Splug
+      name: Splug.com
+      url: https://splug.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
