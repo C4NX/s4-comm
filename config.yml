@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: Splug Documentation
+title: SPLUG Documentation
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Splug Documentation
-  description: "Site de documentation pour les logiciels de Splug Software"
+  title: SPLUG Documentation
+  description: "Site de documentation pour les logiciels de SPLUG Software"
   keywords: [documentation, splug, software]
   author: ["Alexis Udycz", "Vincent Guillemot"] # multiple authors
   DateFormat: "January 2, 2006"
@@ -41,7 +41,7 @@ params:
   tocopen: false
 
   label:
-    text: "SPlug Docs"
+    text: "SPLUG Docs"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -63,7 +63,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Bienvenue sur notre site !"
-    Content: "Nous sommes une entreprise de développement de solutions informatiques. Notre création la plus récente est **Take'A'Vet**, un logiciel web de gestion pour vétérinaires destiné au grand public."
+    Content: "Nous sommes une entreprise de développement de solutions informatiques. Notre création la plus récente est **Take'A'Vet**, un logiciel web de gestion pour vétérinaires destiné au grand public, Nous sommes basés à **Reims**"
 
   socialIcons:
     - name: twitter
@@ -82,14 +82,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   # for search
   # https://fusejs.io/api/options.html
@@ -104,15 +99,15 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: Catégories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: Étiquettes
       url: /tags/
       weight: 20
-    - identifier: Splug
-      name: Splug.com
+    - identifier: splug
+      name: SPLUG.COM
       url: https://splug.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
