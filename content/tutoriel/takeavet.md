@@ -33,7 +33,21 @@ TakeAVet est un site permettant de prendre des rendez-vous à domicile ou en cli
 
 ## 2. S'inscrire sur TakeAVet
 
+Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si vous avez déjà un compte, mais rassurez-vous c'est très simple !
+
 ### 2.1 Créer un compte
+
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. ![1. Navbar](1_navbar.png) Cliquez sur le bouton *"Créer un compte"* en haut a droite de la page
+3. ![2. Formulaire d'inscription](2_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvais utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé. (⚠️ **Attention** ⚠️ : Ne pas cocher la case *"Éleveur"* si vous n'êtes pas un éleveur !).
+4. Une fois le formulaire rempli, cliquez sur le bouton *"Créer le compte"* en bas du formulaire.
+
+### 2.2 Se connecter
+
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. ![1. Navbar](1_navbar_login.png) Cliquez sur le bouton *"Se connecter"* en haut a droite de la page.
+3. ![2. Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
+4. Une fois le formulaire rempli, cliquez sur le bouton *"Se connecter"* en bas du formulaire.
 
 ## 3. Ajouter son adresse
 
