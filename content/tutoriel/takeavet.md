@@ -22,8 +22,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: "tutoriel/takeavet/cover.png" # image path/url
-    alt: "cover du tutoriel" # alt text
-    caption: "Source: https://pixabay.com/photos/chihuahua-duo-fun-cute-dog-4094977/" # display caption under cover
+    alt: "Cover du tutoriel" # alt text
+    caption: "Source: Mylene2401 / Pixabay" # display caption under cover
 ---
 
 
@@ -55,6 +55,8 @@ TODO
 
 ## 4. Ajouter son animal
 
+TODO
+
 ### 4.1 Se rendre sur la page "mes animaux"
 
 Maintenant que vous avez un compte et une adresse nous allons apprendre à ajouter vos animaux. Tout d'abord rendez vous sur la page d'accueil du site, ensuite vous devriez appercevoir en haut a droite la rubrique "mes animaux".
@@ -68,11 +70,18 @@ Une fois sur la page de ses animaux, pour l'instant il ne devrait y avoir qu'une
 Toujours sur la page "mes animaux" vous pouvez voir 3 boutons au niveau de la fiche d'information de l'animal que nous allons expliquer si dessous.
 
 Le premier est le bouton modifier, cela nous arrive tous de faire des erreurs et il vous suffit d'appuyer sur ce bouton pour modifier les informations lié a un animal.
+
 ### 4.4 Supprimer son animal
-Le deuxième bouton est celui de suppression, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer. ATTENTION, une fois validé cette opération est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
+
+Le deuxième bouton est celui de suppression, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer. ⚠️ **Attention** ⚠️, une fois validé cette opération est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
+
 ### 4.5 Voir les informations suite a un rendez vous
+
 Le troisième bouton vous permet d'accèder directement a une nouvelle page, celle dezs rendez-vous que vous avez eu avec votre animal, vous y trouverez toutes les informations tel que son poids, sa taille, ses possibles problèmes de santé et autre informations qui pourrait être utile.
+
 ## 5. Prendre son rendez-vous
+
+TODO
 
 ### 5.1 Voir ses rendez-vous
 
