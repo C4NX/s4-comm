@@ -89,4 +89,4 @@ TODO
 
 ## 6. Modifier son profil
 
-TODO
+Il est parfois important de changer son mot de passe ou son login, c'est pourquoi dans cette partie nous allons voir comment modifier son profil. Tout d'abord il faut revenir a l'accueil puis, toujours en haut a droite, cliquez sur le bouton "mon profil". Cela va vous rediriger vers votre page de profil ou vous pourrez modifier votre profil mais également ajouter une photo de profil !
