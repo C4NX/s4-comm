@@ -51,7 +51,18 @@ Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si
 
 ## 3. Ajouter son adresse
 
-TODO
+Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous, c'est pourquoi nous allons voir comment ajouter son adresse.
+
+1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. **Connectez vous** avec votre compte.
+3. ![3. Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton *"Mes adresses"* en haut a droite de la page.
+4. ![3. Form](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
+5. Puis **cliquez** sur le bouton *"Ajoutez"* en bas du formulaire.
+6. ![3. Address](3_address.png) C'est terminé ! Vous avez maintenant une adresse enregistrée sur votre compte.
+
+Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par exemple si vous avez un appartement et une maison, vous pouvez ajouter les deux adresses.
+
+De plus, les adresses doivent être obligatoirement en **France**.
 
 ## 4. Ajouter son animal
 
