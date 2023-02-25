@@ -27,11 +27,11 @@ cover:
 ---
 
 
-## 1. Description du site
+## 1. 📜 Description du site
 
-TakeAVet est un site permettant de prendre des rendez-vous à domicile ou en clinique avec des vétérinaires pour nos petites boules de poils. Vous pouvez également y retrouver toutes les informations lié a vos animaux enregistrés
+**TakeAVet** est un site permettant de prendre des rendez-vous à domicile ou en clinique avec des vétérinaires pour nos petites boules de poils. Vous pouvez également y retrouver toutes les informations lié a vos animaux enregistrés
 
-## 2. S'inscrire sur TakeAVet
+## 2. ➕ S'inscrire sur TakeAVet
 
 Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si vous avez déjà un compte, mais rassurez-vous c'est très simple !
 
@@ -49,7 +49,7 @@ Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si
 3. ![Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
 4. Une fois le formulaire rempli, cliquez sur le bouton *"Se connecter"* en bas du formulaire.
 
-## 3. Ajouter son adresse
+## 3. 🏠 Ajouter son adresse
 
 Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous, c'est pourquoi nous allons voir comment ajouter son adresse.
 
@@ -64,7 +64,7 @@ Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par ex
 
 De plus, les adresses doivent être obligatoirement en **France**.
 
-## 4. Ajouter son animal
+## 4. 🐶 Ajouter son animal
 
 TODO
 
@@ -90,7 +90,7 @@ Le deuxième bouton est celui de suppression, si vous ne voulez plus que cet ani
 
 Le troisième bouton vous permet d'accèder directement a une nouvelle page, celle dezs rendez-vous que vous avez eu avec votre animal, vous y trouverez toutes les informations tel que son poids, sa taille, ses possibles problèmes de santé et autre informations qui pourrait être utile.
 
-## 5. Prendre son rendez-vous
+## 5. 🕐 Prendre son rendez-vous
 
 TODO
 
@@ -98,6 +98,19 @@ TODO
 
 TODO
 
-## 6. Modifier son profil
+## 6. 🖊 Modifier son profil
 
 Il est parfois important de changer son mot de passe ou son login, c'est pourquoi dans cette partie nous allons voir comment modifier son profil. Tout d'abord il faut revenir a l'accueil puis, toujours en haut a droite, cliquez sur le bouton "mon profil". Cela va vous rediriger vers votre page de profil ou vous pourrez modifier votre profil mais également ajouter une photo de profil !
+
+## 7. 💬 Posez vos questions sur le "forum"
+
+TODO
+
+## 8. 📞 Contactez nous
+
+Vous avez une question, une remarque, N'hésitez pas à nous contacter !
+
+|                      |                                               |
+|----------------------|-----------------------------------------------|
+| Adresse email        | [contact@takea.vet](mailto:contact@takea.vet) |
+| Numéro de téléphone  | 05 93 53 86 68                                |
