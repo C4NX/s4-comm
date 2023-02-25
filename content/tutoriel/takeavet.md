@@ -38,15 +38,15 @@ Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si
 ### 2.1 Créer un compte
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![1. Navbar](1_navbar.png) Cliquez sur le bouton *"Créer un compte"* en haut a droite de la page
-3. ![2. Formulaire d'inscription](2_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvais utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé. (⚠️ **Attention** ⚠️ : Ne pas cocher la case *"Éleveur"* si vous n'êtes pas un éleveur !).
+2. ![Navbar](1_navbar.png) Cliquez sur le bouton *"Créer un compte"* en haut a droite de la page
+3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvais utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé. (⚠️ **Attention** ⚠️ : Ne pas cocher la case *"Éleveur"* si vous n'êtes pas un éleveur !).
 4. Une fois le formulaire rempli, cliquez sur le bouton *"Créer le compte"* en bas du formulaire.
 
 ### 2.2 Se connecter
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![1. Navbar](1_navbar_login.png) Cliquez sur le bouton *"Se connecter"* en haut a droite de la page.
-3. ![2. Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
+2. ![Navbar](2_navbar_login.png) Cliquez sur le bouton *"Se connecter"* en haut a droite de la page.
+3. ![Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
 4. Une fois le formulaire rempli, cliquez sur le bouton *"Se connecter"* en bas du formulaire.
 
 ## 3. Ajouter son adresse
@@ -55,10 +55,10 @@ Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous,
 
 1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
-3. ![3. Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton *"Mes adresses"* en haut a droite de la page.
-4. ![3. Form](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
+3. ![Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton *"Mes adresses"* en haut a droite de la page.
+4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
 5. Puis **cliquez** sur le bouton *"Ajoutez"* en bas du formulaire.
-6. ![3. Address](3_address.png) C'est terminé ! Vous avez maintenant une adresse enregistrée sur votre compte.
+6. ![Adresse](3_address.png) C'est terminé ! Vous avez maintenant une adresse enregistrée sur votre compte.
 
 Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par exemple si vous avez un appartement et une maison, vous pouvez ajouter les deux adresses.
 
