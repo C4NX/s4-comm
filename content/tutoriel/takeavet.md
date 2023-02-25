@@ -58,7 +58,7 @@ Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous,
 3. ![Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton *"Mes adresses"* en haut a droite de la page.
 4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
 5. Puis **cliquez** sur le bouton *"Ajoutez"* en bas du formulaire.
-6. ![Adresse](3_address.png) C'est terminé ! Vous avez maintenant une adresse enregistrée sur votre compte.
+6. ![Adresse](3_address.png) **C'est terminé !** Vous avez maintenant une adresse enregistrée sur votre compte.
 
 Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par exemple si vous avez un appartement et une maison, vous pouvez ajouter les deux adresses.
 
@@ -104,6 +104,20 @@ Il est parfois important de changer son mot de passe ou son login, c'est pourquo
 
 ## 7. 💬 Posez vos questions sur le "forum"
 
+### 7.1 Vous avez une question ?
+
+Vous pouvez rechercher votre question sur le forum, pour cela
+
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+
+TODO
+
+### 7.2 Vous ne trouvez pas de réponse ?
+
+Vous pouvez poser votre question sur le forum, pour cela
+
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+
 TODO
 
 ## 8. 📞 Contactez nous
@@ -113,4 +127,4 @@ Vous avez une question, une remarque, N'hésitez pas à nous contacter !
 |                      |                                               |
 |----------------------|-----------------------------------------------|
 | Adresse email        | [contact@takea.vet](mailto:contact@takea.vet) |
-| Numéro de téléphone  | 05 93 53 86 68                                |
+| Numéro de téléphone  | [05 93 53 86 68](tel:+33593538668)            |
