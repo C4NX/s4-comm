@@ -21,7 +21,7 @@ params:
   description: "Site de documentation pour les logiciels de SPLUG Software"
   keywords: [documentation, splug, software]
   author: ["Alexis Udycz", "Vincent Guillemot"] # multiple authors
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -84,10 +84,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: Catégories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: Étiquettes
       url: /tags/

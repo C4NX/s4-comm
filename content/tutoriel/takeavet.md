@@ -3,14 +3,14 @@ title: "Comment utiliser Take'A'Vet ?"
 date: 2023-02-18
 # weight: 1
 # aliases: ["/first"]
-tags: ["takeavet","client","tutoriel"]
+tags: ["takeavet","utilisateur","tutoriel", "utilisation", "prendre-un-rendez-vous"]
 author: ["Vincent Guillemot","Alexis Udycz"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Dans ce tutoriel, nous allons vous expliquer comment utiliser notre service Take'A'Vet."
+description: "Cette article vous explique comment utiliser le site Take'A'Vet."
 disableShare: false
 hideSummary: false
 searchHidden: true
