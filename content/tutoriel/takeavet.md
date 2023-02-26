@@ -103,18 +103,48 @@ Le troisième bouton vous permet d'accèder directement a une nouvelle page, cel
 
 ## 5. 🕐 Prendre son rendez-vous
 
-TODO
+Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment prendre rendez-vous ?
+
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. Cliquez sur le bouton « *Mes rendez-vous* » en haut a droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
+3. Une fois sur la page, cliquez sur le bouton « *Prendre un rendez-vous* » qui se situe au milieu de la page.
+4. Remplissez le formulaire en donnant l'heure, le vétérinaire que vous voulez, votre animal, la durée et l'adresse.
+5. Une fois le formulaire rempli, cliquez sur le bouton « *Prendre le rendez-vous* ».
 
 ### 5.1 Voir ses rendez-vous
 
-TODO
+Si vous avez réussi a prendre rendez-vous vous y serez immédiatement redirigé ! Sinon, il suffit de reprendre les deux premières étapes d'au dessus.
 
 ## 6. 🖊 Modifier son profil
 
 Il est parfois important de changer **son mot de passe**, **ses informations personnelles** ou bien même ca **photo de profile**, c'est pourquoi dans cette partie nous allons voir comment modifier son profil. 
 
-TODO
+### 6.1 Aller sur la page "mon compte"
 
+1. Il suffit de cliquer sur votre image de profil en haut à droite.
+
+### 6.2 Changer ses informations
+
+Vous pouvez changer diverse informations une fois sur votre page avec votre compte.
+
+1. Modifiez (si vous voulez) votre nom, votre prénom ou votre numéro de téléphone.
+2. Appuyez sur le bouton  « *Mettre à jour les informations* »
+
+### 6.3 Changer son image de profil
+
+Pour changer son image de profil, rien de plus simple.
+
+1. Cliquez sur le bouton « *Choisir un fichier* »
+2. Cela va ouvrir votre explorateur de fichier, choisissez votre nouvelle image de profil
+3. Cliquez sur le bouton « *Changer* » et voilà !
+### 6.4 Changer son mot de passe
+
+C'est la partie la plus compliqué de cette rubrique mais nous allons vous l'expliquer pas à pas.
+
+1. Tout d'abord, remplissez la première rubrique « *Mot de passe (Actuel)* » avec votre mot de passe actuel.
+2. Ensuite juste en dessous remplissez la rubrique avec le nouveau mot de passe que vous voulez utiliser.
+3. Répétez le mot de passe dans la rubrique « *Répéter: Mot de passe (Nouveau)* ».
+4. Appuyez sur le bouton « *Changer le mot de passe* »
 ## 7. 💬 Posez vos questions dans la foire aux questions
 
 ### 7.1 Vous avez une question ?
@@ -139,8 +169,13 @@ Vous pouvez rechercher votre question sur le forum, pour cela
 Vous pouvez poser votre question sur le forum, pour cela
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-
-TODO
+2. Cliquez, encore une fois en haut à droite mais cette fois ci sur « *FAQ* »
+3. Vous pouvez rechercher si votre question a déjà été posé mais cela ne nous intéresse pas ici.
+4. En haut de la page « *FAQ* », cliquez sur le bouton « *Ajouter une question ici* ».
+5. Vous serez redirigé vers une nouvelle page avec deux rubriques.
+6. Dans la première, écrivez votre question.
+7. Si besoin, dans la deuxième ajoutez des précisions comme votre animal ou autre.
+8. Cliquez sur le bouton « *Soumettre ma question* »
 
 ## 8. 📞 Contactez nous
 
