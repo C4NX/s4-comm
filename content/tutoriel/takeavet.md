@@ -79,7 +79,7 @@ C'est sur cette page que vous allez pouvoir ajouter, modifier ou supprimer vos a
 
 1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
-3. En haut a droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
+3. ![Navbar](4_navbar.png) En haut a droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
 
 ### 4.2 Inscrire son animal
 
@@ -105,46 +105,70 @@ Le troisième bouton vous permet d'accèder directement a une nouvelle page, cel
 
 Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment prendre rendez-vous ?
 
+> **⚠️ Attention**, Pour prendre rendez-vous vous devez avoir **un compte** et **une adresse** et **un animal**.
+
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. Cliquez sur le bouton « *Mes rendez-vous* » en haut a droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
+2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut a droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
 3. Une fois sur la page, cliquez sur le bouton « *Prendre un rendez-vous* » qui se situe au milieu de la page.
 4. Remplissez le formulaire en donnant l'heure, le vétérinaire que vous voulez, votre animal, la durée et l'adresse.
 5. Une fois le formulaire rempli, cliquez sur le bouton « *Prendre le rendez-vous* ».
 
 ### 5.1 Voir ses rendez-vous
 
-Si vous avez réussi a prendre rendez-vous vous y serez immédiatement redirigé ! Sinon, il suffit de reprendre les deux premières étapes d'au dessus.
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut a droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
+3. Cette fois si vous devriez voir vos rendez-vous.
+
+> Si vous ne voyez pas vos rendez-vous, c'est que vous n'avez pas encore pris de rendez-vous ou qu'il s'agit d'un bug, dans ce cas merci de nous contacter.
 
 ## 6. 🖊 Modifier son profil
 
-Il est parfois important de changer **son mot de passe**, **ses informations personnelles** ou bien même ca **photo de profile**, c'est pourquoi dans cette partie nous allons voir comment modifier son profil. 
+Vous pouvez modifier votre profil, changer votre mot de passe, votre avatar, vos informations personnelles et même supprimer votre compte.
 
-### 6.1 Aller sur la page "mon compte"
+1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. Cliquer sur votre profil en haut à droite de la page.
+3. Vous êtes maintenant sur la page de votre profil, vous pouvez donc faire les actions suivantes : 
+   - Modifier votre image de profil *(votre avatar)*
+   - Modifier vos informations personnelles
+   - Modifier votre mot de passe
+   - Supprimer votre compte
 
-1. Il suffit de cliquer sur votre image de profil en haut à droite.
-
-### 6.2 Changer ses informations
-
-Vous pouvez changer diverse informations une fois sur votre page avec votre compte.
-
-1. Modifiez (si vous voulez) votre nom, votre prénom ou votre numéro de téléphone.
-2. Appuyez sur le bouton  « *Mettre à jour les informations* »
-
-### 6.3 Changer son image de profil
+### 6.1 Changer son image de profil
 
 Pour changer son image de profil, rien de plus simple.
+
+![Avatar](6_avatar.png)
 
 1. Cliquez sur le bouton « *Choisir un fichier* »
 2. Cela va ouvrir votre explorateur de fichier, choisissez votre nouvelle image de profil
 3. Cliquez sur le bouton « *Changer* » et voilà !
-### 6.4 Changer son mot de passe
+
+### 6.2 Modifier vos informations personnelles
+
+Vous pouvez changer diverse informations une fois sur votre page avec votre compte.
+
+![Mes informations](6_info.png)
+
+1. Modifiez (si vous voulez) votre nom, votre prénom ou votre numéro de téléphone.
+2. Appuyez sur le bouton  « *Mettre à jour les informations* »
+
+### 6.3 Changer son mot de passe
 
 C'est la partie la plus compliqué de cette rubrique mais nous allons vous l'expliquer pas à pas.
+
+![Mot de passe](6_password.png)
 
 1. Tout d'abord, remplissez la première rubrique « *Mot de passe (Actuel)* » avec votre mot de passe actuel.
 2. Ensuite juste en dessous remplissez la rubrique avec le nouveau mot de passe que vous voulez utiliser.
 3. Répétez le mot de passe dans la rubrique « *Répéter: Mot de passe (Nouveau)* ».
 4. Appuyez sur le bouton « *Changer le mot de passe* »
+
+### 6.4 Supprimer son compte
+
+![Suprimer le compte](6_delete.png)
+
+1. Pour supprimer votre compte, il vous suffit de cliquer sur le bouton « *Supprimer mon compte* ».
+
 ## 7. 💬 Posez vos questions dans la foire aux questions
 
 ### 7.1 Vous avez une question ?
