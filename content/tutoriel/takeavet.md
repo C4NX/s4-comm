@@ -29,7 +29,7 @@ cover:
 
 ## 1. 📜 Description du site
 
-**TakeAVet** est un site permettant de prendre des rendez-vous à domicile ou en clinique avec des vétérinaires pour nos petites boules de poils. Vous pouvez également y retrouver toutes les informations lié a vos animaux enregistrés
+**Take'A'Vet** est un site permettant de prendre des rendez-vous à domicile ou en clinique avec des vétérinaires pour vos petites boules de poils 🐰. Vous pouvez également y retrouver toutes les informations liées à vos animaux de compagnie ou bien poser des questions si vous avez besoin d'aide.
 
 ## 2. ➕ S'inscrire sur TakeAVet
 
@@ -38,16 +38,21 @@ Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si
 ### 2.1 Créer un compte
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![Navbar](1_navbar.png) Cliquez sur le bouton *"Créer un compte"* en haut a droite de la page
-3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvais utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé. (⚠️ **Attention** ⚠️ : Ne pas cocher la case *"Éleveur"* si vous n'êtes pas un éleveur !).
-4. Une fois le formulaire rempli, cliquez sur le bouton *"Créer le compte"* en bas du formulaire.
+2. ![Navbar](1_navbar.png) Cliquez sur le bouton « *Créer un compte* » en haut a droite de la page
+3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvais utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé.
+
+> **⚠️ Attention** : Ne pas cocher la case « *Éleveur* » si vous n'êtes pas un éleveur !
+
+4. Une fois le formulaire rempli, cliquez sur le bouton « *Créer le compte* » en bas du formulaire.
+
+Et voilà ! Vous avez maintenant un compte sur Take'A'Vet !
 
 ### 2.2 Se connecter
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![Navbar](2_navbar_login.png) Cliquez sur le bouton *"Se connecter"* en haut a droite de la page.
+2. ![Navbar](2_navbar_login.png) Cliquez sur le bouton « *Se connecter* » en haut a droite de la page.
 3. ![Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
-4. Une fois le formulaire rempli, cliquez sur le bouton *"Se connecter"* en bas du formulaire.
+4. Une fois le formulaire rempli, cliquez sur le bouton « *Se connecter* » en bas du formulaire.
 
 ## 3. 🏠 Ajouter son adresse
 
@@ -55,22 +60,26 @@ Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous,
 
 1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
-3. ![Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton *"Mes adresses"* en haut a droite de la page.
+3. ![Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton « *Mes adresses* » en haut a droite de la page.
 4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
-5. Puis **cliquez** sur le bouton *"Ajoutez"* en bas du formulaire.
+5. Puis **cliquez** sur le bouton « *Ajoutez* » en bas du formulaire.
 6. ![Adresse](3_address.png) **C'est terminé !** Vous avez maintenant une adresse enregistrée sur votre compte.
 
 Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par exemple si vous avez un appartement et une maison, vous pouvez ajouter les deux adresses.
 
-De plus, les adresses doivent être obligatoirement en **France**.
+> **⚠️ Attention** : Les adresses doivent être obligatoirement en **France**.
 
 ## 4. 🐶 Ajouter son animal
 
-TODO
+Maintenant que vous avez un compte et une adresse nous allons apprendre à ajouter vos animaux.
 
-### 4.1 Se rendre sur la page "mes animaux"
+### 4.1 La page « mes animaux »
 
-Maintenant que vous avez un compte et une adresse nous allons apprendre à ajouter vos animaux. Tout d'abord rendez vous sur la page d'accueil du site, ensuite vous devriez appercevoir en haut a droite la rubrique "mes animaux".
+C'est sur cette page que vous allez pouvoir ajouter, modifier ou supprimer vos animaux, mais aussi voir leurs informations.
+
+1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. **Connectez vous** avec votre compte.
+3. En haut a droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
 
 ### 4.2 Inscrire son animal
 
@@ -84,7 +93,9 @@ Le premier est le bouton modifier, cela nous arrive tous de faire des erreurs et
 
 ### 4.4 Supprimer son animal
 
-Le deuxième bouton est celui de suppression, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer. ⚠️ **Attention** ⚠️, une fois validé cette opération est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
+Le deuxième bouton est celui de suppression, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer.
+
+> **⚠️ Attention**, une fois validé cette opération est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
 
 ### 4.5 Voir les informations suite a un rendez vous
 
@@ -100,17 +111,28 @@ TODO
 
 ## 6. 🖊 Modifier son profil
 
-Il est parfois important de changer son mot de passe ou son login, c'est pourquoi dans cette partie nous allons voir comment modifier son profil. Tout d'abord il faut revenir a l'accueil puis, toujours en haut a droite, cliquez sur le bouton "mon profil". Cela va vous rediriger vers votre page de profil ou vous pourrez modifier votre profil mais également ajouter une photo de profil !
+Il est parfois important de changer **son mot de passe**, **ses informations personnelles** ou bien même ca **photo de profile**, c'est pourquoi dans cette partie nous allons voir comment modifier son profil. 
 
-## 7. 💬 Posez vos questions sur le "forum"
+TODO
+
+## 7. 💬 Posez vos questions dans la foire aux questions
 
 ### 7.1 Vous avez une question ?
 
 Vous pouvez rechercher votre question sur le forum, pour cela
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. Cliquez sur le bouton « *FAQ* » en haut a droite de la page.
+3. Au niveau de la barre de recherche, tapez votre question.
+4. En suite cliquez sur le bouton « *Rechercher* » a droite de la barre de recherche.
+5. Vous pouvez naviguer entre les différents résultats et voir si votre question est déjà posée.
 
-TODO
+> Nous vous conseillons de sélectionner les questions qui ont été annotées par le tag « *Question résolue* », car sinon vous pourriez tomber sur une question qui n'a pas encore été résolue.
+
+1. Cliquez sur la question qui vous intéresse avec le bouton « *Voir le message* ».
+2. Lire la question et la réponse.
+
+> Si vous ne trouvez pas de réponse qui vous convient, vous pouvez toujours poser votre question sur la foire aux questions.
 
 ### 7.2 Vous ne trouvez pas de réponse ?
 
