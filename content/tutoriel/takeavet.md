@@ -173,7 +173,7 @@ C'est la partie la plus compliqué de cette rubrique mais nous allons vous l'exp
 
 ### 7.1 Vous avez une question ?
 
-Vous pouvez rechercher votre question sur le forum, pour cela
+Vous pouvez rechercher votre question dans la foire aux questions, pour cela
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. Cliquez sur le bouton « *FAQ* » en haut a droite de la page.
@@ -190,7 +190,7 @@ Vous pouvez rechercher votre question sur le forum, pour cela
 
 ### 7.2 Vous ne trouvez pas de réponse ?
 
-Vous pouvez poser votre question sur le forum, pour cela
+Vous pouvez poser votre question sur la rubrique « *Foire aux questions* ». Pour cela
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. Cliquez, encore une fois en haut à droite mais cette fois ci sur « *FAQ* »
