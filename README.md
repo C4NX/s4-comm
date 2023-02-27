@@ -5,7 +5,38 @@
 - Vincent Guillemot
 - Alexis Udycz
 
-## 2. 📜 Licence
+## 2. ⚙️ Pour commencer
+
+- Installer Hugo : [https://gohugo.io/getting-started/installing/](https://gohugo.io/getting-started/installing/)
+
+```shell
+# Windows
+winget install Hugo.Extended
+# Windows (Chocolatey)
+choco install hugo-extended
+# Windows (Scoop)
+scoop install hugo-extended
+# Linux
+sudo apt install hugo
+# Linux (Snap)
+sudo snap install hugo
+# Linux (PacMan)
+sudo pacman -S hugo
+```
+
+- Cloner le projet avec les sous-modules
+
+```shell
+git clone --recursive https://github.com/C4NX/s4-comm.git
+```
+
+- Lancer le serveur Hugo
+
+```shell
+hugo server
+```
+
+## 3. 📜 Licence
 
 Ce projet est pour un devoir réalisé dans le cadre notre formation en BUT Informatique à l'IUT de Reims.
 
