@@ -28,6 +28,7 @@ sudo pacman -S hugo
 
 ```shell
 git clone --recursive https://github.com/C4NX/s4-comm.git
+cd s4-comm
 ```
 
 - Lancer le serveur Hugo
