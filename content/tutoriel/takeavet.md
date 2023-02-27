@@ -194,7 +194,7 @@ Vous pouvez rechercher votre question dans la foire aux questions, pour cela
 1. Cliquez sur la question qui vous intéresse avec le bouton « *Voir le message* ».
 2. Lire la question et la réponse.
 
-> Si vous ne trouvez pas de réponse qui vous convient, vous pouvez toujours poser votre question sur la foire aux questions.
+Si vous ne trouvez pas de réponse qui vous convient, vous pouvez toujours **poser votre question** sur la foire aux questions (voir la rubrique suivante).
 
 ### 7.2 Vous ne trouvez pas de réponse ?
 
@@ -216,4 +216,4 @@ Vous avez une question, une remarque, N'hésitez pas à nous contacter !
 |                      |                                               |
 |----------------------|-----------------------------------------------|
 | Adresse email        | [contact@takea.vet](mailto:contact@takea.vet) |
-| Numéro de téléphone  | [05 93 53 86 68](tel:+33593538668)            |
+| Numéro de téléphone (fictif)  | [05 93 53 86 68](tel:+33593538668)            |
