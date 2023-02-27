@@ -73,33 +73,41 @@ Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par ex
 
 Maintenant que vous avez un compte et une adresse nous allons apprendre à ajouter vos animaux.
 
-### 4.1 La page « mes animaux »
+### 4.1 La page « Mes animaux »
 
 C'est sur cette page que vous allez pouvoir ajouter, modifier ou supprimer vos animaux, mais aussi voir leurs informations.
 
 1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
 3. ![Navbar](4_navbar.png) En haut a droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
+4. ![Page « Mes animaux »](4_page.png) Vous êtes maintenant sur la page « *Mes animaux* », vous pouvez accéder aux informations de vos animaux et les modifier si besoin.
+
+Si vous n'avez pas encore d'animaux, inscrivez en un en suivant les instructions ci-dessous.
 
 ### 4.2 Inscrire son animal
 
-Une fois sur la page de ses animaux, pour l'instant il ne devrait y avoir qu'une page blanche avec un seul bouton que vous allez cliquer dessus. Une fois le bouton appuyé vous allez être dirigé vers un formulaire pour inscrire votre animal, vous devez alors remplir ce formulaire : remplir le nom de l'animal, sa date de naissance (ou une approximation), sa race, son genre et une petite photo puis cliquer sur le bouton vert. Vous êtes maintenant revenu a la page "mes animaux" et votre nouvel animal est apparu ! Mais cela ne s'arrête pas la.
+![Formulaire d'ajout d'un animal](4_form.png)
+
+> **⚠️ Attention** : Il vous faut être connecté pour pouvoir ajouter un animal.
+
+1. **Rendez vous** sur la page  « *Mes animaux* » comme expliqué dans la section précédente.
+2. **Cliquez** sur le bouton « *Ajouter un animal* ».
+3. **Remplissez** le formulaire d'ajout d'un animal avec les informations de votre animal, remplir le nom de l'animal, sa date de naissance (ou une approximation), sa race, son genre et une petite photo.
+4. Une fois le formulaire rempli, **cliquez** sur le bouton bleu « *créer* » en bas du formulaire.
+5. Et **c'est terminé !** Vous avez maintenant un animal enregistré sur votre compte.
+
+Vous pouvez en suite modifier ses informations ou le supprimer si vous le souhaitez.
 
 ### 4.3 Modifier les informations de son animal
 
-Toujours sur la page "mes animaux" vous pouvez voir 3 boutons au niveau de la fiche d'information de l'animal que nous allons expliquer si dessous.
+> **⚠️ Attention** : Il vous faut être connecté pour pouvoir modifier un animal.
 
-Le premier est le bouton modifier, cela nous arrive tous de faire des erreurs et il vous suffit d'appuyer sur ce bouton pour modifier les informations lié a un animal.
+1. Toujours sur la page « *Mes animaux* », vous pouvez voir 3 boutons au niveau de la fiche d'information de l'animal que nous allons expliquer si dessous. ![Liste des buttons](4_buttons.png)
+    - Le **premier** bouton « *Modifier cet animal* » permet de le modifier, cela nous arrive tous de faire des erreurs et il vous suffit d'appuyer sur ce bouton pour modifier les informations lié a un animal.
+    - Le **deuxième** bouton « *Supprimer cet animal* » permet de le supprimer, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer.
+    - Le **troisième** bouton « *Voir les rendez-vous* » vous permet d'accèder directement a une nouvelle page, celle dezs rendez-vous que vous avez eu avec votre animal, vous y trouverez toutes les informations tel que son poids, sa taille, ses possibles problèmes de santé et autre informations qui pourrait être utile.
 
-### 4.4 Supprimer son animal
-
-Le deuxième bouton est celui de suppression, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer.
-
-> **⚠️ Attention**, une fois validé cette opération est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
-
-### 4.5 Voir les informations suite a un rendez vous
-
-Le troisième bouton vous permet d'accèder directement a une nouvelle page, celle dezs rendez-vous que vous avez eu avec votre animal, vous y trouverez toutes les informations tel que son poids, sa taille, ses possibles problèmes de santé et autre informations qui pourrait être utile.
+> **⚠️ Attention**, une fois validé l'opération « *Supprimer cet animal* » est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
 
 ## 5. 🕐 Prendre son rendez-vous
 
