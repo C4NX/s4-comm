@@ -38,8 +38,8 @@ Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si
 ### 2.1 Créer un compte
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![Navbar](1_navbar.png) Cliquez sur le bouton « *Créer un compte* » en haut a droite de la page
-3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvais utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé.
+2. ![Navbar](1_navbar.png) Cliquez sur le bouton « *Créer un compte* » en haut à droite de la page
+3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvre utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé.
 
 > **⚠️ Attention** : Ne pas cocher la case « *Éleveur* » si vous n'êtes pas un éleveur !
 
@@ -50,7 +50,7 @@ Et voilà ! Vous avez maintenant un compte sur Take'A'Vet !
 ### 2.2 Se connecter
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![Navbar](2_navbar_login.png) Cliquez sur le bouton « *Se connecter* » en haut a droite de la page.
+2. ![Navbar](2_navbar_login.png) Cliquez sur le bouton « *Se connecter* » en haut à droite de la page.
 3. ![Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
 4. Une fois le formulaire rempli, cliquez sur le bouton « *Se connecter* » en bas du formulaire.
 
@@ -60,7 +60,7 @@ Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous,
 
 1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
-3. ![Navbar](3_navbar.png) De retour sur la page d'acceuil, **Cliquez** sur le bouton « *Mes adresses* » en haut a droite de la page.
+3. ![Navbar](3_navbar.png) De retour sur la page d'accueil, **Cliquez** sur le bouton « *Mes adresses* » en haut à droite de la page.
 4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
 5. Puis **cliquez** sur le bouton « *Ajoutez* » en bas du formulaire.
 6. ![Adresse](3_address.png) **C'est terminé !** Vous avez maintenant une adresse enregistrée sur votre compte.
@@ -116,7 +116,7 @@ Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment 
 > **⚠️ Attention**, Pour prendre rendez-vous vous devez avoir **un compte** et **une adresse** et **un animal**.
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut a droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
+2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut à droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
 3. Une fois sur la page, cliquez sur le bouton « *Prendre un rendez-vous* » qui se situe au milieu de la page.
 4. Remplissez le formulaire en donnant l'heure, le vétérinaire que vous voulez, votre animal, la durée et l'adresse.
 5. Une fois le formulaire rempli, cliquez sur le bouton « *Prendre le rendez-vous* ».
@@ -124,7 +124,7 @@ Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment 
 ### 5.1 Voir ses rendez-vous
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut a droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
+2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut à droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
 3. Cette fois si vous devriez voir vos rendez-vous.
 
 > Si vous ne voyez pas vos rendez-vous, c'est que vous n'avez pas encore pris de rendez-vous ou qu'il s'agit d'un bug, dans ce cas merci de nous contacter.
@@ -134,7 +134,7 @@ Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment 
 Vous pouvez modifier votre profil, changer votre mot de passe, votre avatar, vos informations personnelles et même supprimer votre compte.
 
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. Cliquer sur votre profil en haut à droite de la page.
+2. Cliquez sur votre profil en haut à droite de la page.
 3. Vous êtes maintenant sur la page de votre profil, vous pouvez donc faire les actions suivantes : 
    - Modifier votre image de profil *(votre avatar)*
    - Modifier vos informations personnelles
@@ -186,7 +186,7 @@ Vous pouvez rechercher votre question dans la foire aux questions, pour cela
 1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. Cliquez sur le bouton « *FAQ* » en haut a droite de la page.
 3. Au niveau de la barre de recherche, tapez votre question.
-4. En suite cliquez sur le bouton « *Rechercher* » a droite de la barre de recherche.
+4. En suite cliquez sur le bouton « *Rechercher* » à droite de la barre de recherche.
 5. Vous pouvez naviguer entre les différents résultats et voir si votre question est déjà posée.
 
 > Nous vous conseillons de sélectionner les questions qui ont été annotées par le tag « *Question résolue* », car sinon vous pourriez tomber sur une question qui n'a pas encore été résolue.
