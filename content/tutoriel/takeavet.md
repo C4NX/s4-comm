@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Cette article vous explique comment utiliser le site Take'A'Vet."
+description: "Cet article vous explique comment utiliser le site Take'A'Vet."
 disableShare: false
 hideSummary: false
 searchHidden: true
@@ -33,11 +33,11 @@ cover:
 
 ## 2. ➕ S'inscrire sur TakeAVet
 
-Pour utiliser notre service il vous faut vous inscrire ou bien vous connectez si vous avez déjà un compte, mais rassurez-vous c'est très simple !
+Pour utiliser notre service il vous faut vous inscrire ou bien vous connecter si vous avez déjà un compte, mais rassurez-vous c'est très simple !
 
 ### 2.1 Créer un compte
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. ![Navbar](1_navbar.png) Cliquez sur le bouton « *Créer un compte* » en haut à droite de la page
 3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvre utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé.
 
@@ -49,7 +49,7 @@ Et voilà ! Vous avez maintenant un compte sur Take'A'Vet !
 
 ### 2.2 Se connecter
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. ![Navbar](2_navbar_login.png) Cliquez sur le bouton « *Se connecter* » en haut à droite de la page.
 3. ![Formulaire de connexion](2_login.png) Remplissez le formulaire de connexion avec votre adresse mail et votre mot de passe.
 4. Une fois le formulaire rempli, cliquez sur le bouton « *Se connecter* » en bas du formulaire.
@@ -58,7 +58,7 @@ Et voilà ! Vous avez maintenant un compte sur Take'A'Vet !
 
 Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous, c'est pourquoi nous allons voir comment ajouter son adresse.
 
-1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. **Rendez-vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
 3. ![Navbar](3_navbar.png) De retour sur la page d'accueil, **Cliquez** sur le bouton « *Mes adresses* » en haut à droite de la page.
 4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
@@ -77,9 +77,9 @@ Maintenant que vous avez un compte et une adresse nous allons apprendre à ajout
 
 C'est sur cette page que vous allez pouvoir ajouter, modifier ou supprimer vos animaux, mais aussi voir leurs informations.
 
-1. **Rendez vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. **Rendez-vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. **Connectez vous** avec votre compte.
-3. ![Navbar](4_navbar.png) En haut a droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
+3. ![Navbar](4_navbar.png) En haut à droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
 4. ![Page « Mes animaux »](4_page.png) Vous êtes maintenant sur la page « *Mes animaux* », vous pouvez accéder aux informations de vos animaux et les modifier si besoin.
 
 Si vous n'avez pas encore d'animaux, inscrivez en un en suivant les instructions ci-dessous.
@@ -90,32 +90,32 @@ Si vous n'avez pas encore d'animaux, inscrivez en un en suivant les instructions
 
 > **⚠️ Attention** : Il vous faut être connecté pour pouvoir ajouter un animal.
 
-1. **Rendez vous** sur la page  « *Mes animaux* » comme expliqué dans la section précédente.
+1. **Rendez-vous** sur la page  « *Mes animaux* » comme expliqué dans la section précédente.
 2. **Cliquez** sur le bouton « *Ajouter un animal* ».
 3. **Remplissez** le formulaire d'ajout d'un animal avec les informations de votre animal, remplir le nom de l'animal, sa date de naissance (ou une approximation), sa race, son genre et une petite photo.
 4. Une fois le formulaire rempli, **cliquez** sur le bouton bleu « *créer* » en bas du formulaire.
 5. Et **c'est terminé !** Vous avez maintenant un animal enregistré sur votre compte.
 
-Vous pouvez en suite modifier ses informations ou le supprimer si vous le souhaitez.
+Vous pouvez ensuite modifier ses informations ou le supprimer si vous le souhaitez.
 
 ### 4.3 Modifier les informations de son animal
 
-> **⚠️ Attention** : Il vous faut être connecté pour pouvoir modifier un animal.
+> **⚠️ Attention** : Il faut être connecté pour pouvoir modifier un animal.
 
-1. Toujours sur la page « *Mes animaux* », vous pouvez voir 3 boutons au niveau de la fiche d'information de l'animal que nous allons expliquer si dessous. ![Liste des buttons](4_buttons.png)
-    - Le **premier** bouton « *Modifier cet animal* » permet de le modifier, cela nous arrive tous de faire des erreurs et il vous suffit d'appuyer sur ce bouton pour modifier les informations lié a un animal.
-    - Le **deuxième** bouton « *Supprimer cet animal* » permet de le supprimer, si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer.
-    - Le **troisième** bouton « *Voir les rendez-vous* » vous permet d'accèder directement a une nouvelle page, celle dezs rendez-vous que vous avez eu avec votre animal, vous y trouverez toutes les informations tel que son poids, sa taille, ses possibles problèmes de santé et autre informations qui pourrait être utile.
+1. Toujours sur la page « *Mes animaux* », vous pouvez voir trois boutons au niveau de la fiche d'information de l'animal que nous allons expliquer si dessous. ![Liste des buttons](4_buttons.png)
+    - Le **premier** bouton « *Modifier cet animal* » permet de le modifier. Cela nous arrive à tous de faire des erreurs et il vous suffit d'appuyer sur ce bouton pour modifier les informations liés à un animal.
+    - Le **deuxième** bouton « *Supprimer cet animal* » permet de le supprimer. Si vous ne voulez plus que cet animal soit enregistré sur votre compte il suffit d'appuyer sur ce bouton et confirmer pour le supprimer.
+    - Le **troisième** bouton « *Voir les rendez-vous* » vous permet d'accèder directement à une nouvelle page, celle des rendez-vous que vous avez eu avec votre animal. Vous y trouverez toutes les informations tel que son poids, sa taille, ses possibles problèmes de santé et autres informations qui pourraient être utile.
 
-> **⚠️ Attention**, une fois validé l'opération « *Supprimer cet animal* » est définitive, même si vous recréez un animal, les informations lié aux rendez vous ne seront plus disponible !
+> **⚠️ Attention**, une fois validé, l'opération « *Supprimer cet animal* » est définitive même si vous recréez un animal les informations liés aux rendez-vous ne seront plus disponible !
 
 ## 5. 🕐 Prendre son rendez-vous
 
-Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment prendre rendez-vous ?
+Maintenant nous allons voir le système de prise de rendez-vous et comment en prendre un. 
 
 > **⚠️ Attention**, Pour prendre rendez-vous vous devez avoir **un compte** et **une adresse** et **un animal**.
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut à droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
 3. Une fois sur la page, cliquez sur le bouton « *Prendre un rendez-vous* » qui se situe au milieu de la page.
 4. Remplissez le formulaire en donnant l'heure, le vétérinaire que vous voulez, votre animal, la durée et l'adresse.
@@ -123,9 +123,9 @@ Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment 
 
 ### 5.1 Voir ses rendez-vous
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. ![Navbar](5_navbar.png) Cliquez sur le bouton « *Mes rendez-vous* » en haut à droite de la page, à coté du bouton déconnexion (vous devez être connecté !).
-3. Cette fois si vous devriez voir vos rendez-vous.
+3. Cette fois ci vous devriez voir vos rendez-vous.
 
 > Si vous ne voyez pas vos rendez-vous, c'est que vous n'avez pas encore pris de rendez-vous ou qu'il s'agit d'un bug, dans ce cas merci de nous contacter.
 
@@ -133,7 +133,7 @@ Maintenant nous allons voir le système de prise de rendez-vous. Alors, comment 
 
 Vous pouvez modifier votre profil, changer votre mot de passe, votre avatar, vos informations personnelles et même supprimer votre compte.
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. Cliquez sur votre profil en haut à droite de la page.
 3. Vous êtes maintenant sur la page de votre profil, vous pouvez donc faire les actions suivantes : 
    - Modifier votre image de profil *(votre avatar)*
@@ -153,7 +153,7 @@ Pour changer son image de profil, rien de plus simple.
 
 ### 6.2 Modifier vos informations personnelles
 
-Vous pouvez changer diverse informations une fois sur votre page avec votre compte.
+Vous pouvez changer diverses informations une fois sur votre page avec votre compte.
 
 ![Mes informations](6_info.png)
 
@@ -162,7 +162,7 @@ Vous pouvez changer diverse informations une fois sur votre page avec votre comp
 
 ### 6.3 Changer son mot de passe
 
-C'est la partie la plus compliqué de cette rubrique mais nous allons vous l'expliquer pas à pas.
+C'est la partie la plus compliquée de cette rubrique mais nous allons vous l'expliquer pas à pas.
 
 ![Mot de passe](6_password.png)
 
@@ -183,10 +183,10 @@ C'est la partie la plus compliqué de cette rubrique mais nous allons vous l'exp
 
 Vous pouvez rechercher votre question dans la foire aux questions, pour cela
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. Cliquez sur le bouton « *FAQ* » en haut a droite de la page.
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+2. Cliquez sur le bouton « *FAQ* » en haut à droite de la page.
 3. Au niveau de la barre de recherche, tapez votre question.
-4. En suite cliquez sur le bouton « *Rechercher* » à droite de la barre de recherche.
+4. Ensuite cliquez sur le bouton « *Rechercher* » à droite de la barre de recherche.
 5. Vous pouvez naviguer entre les différents résultats et voir si votre question est déjà posée.
 
 > Nous vous conseillons de sélectionner les questions qui ont été annotées par le tag « *Question résolue* », car sinon vous pourriez tomber sur une question qui n'a pas encore été résolue.
@@ -200,7 +200,7 @@ Si vous ne trouvez pas de réponse qui vous convient, vous pouvez toujours **pos
 
 Vous pouvez poser votre question sur la rubrique « *Foire aux questions* ». Pour cela
 
-1. Rendez vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
+1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. Cliquez, encore une fois en haut à droite mais cette fois ci sur « *FAQ* »
 3. Vous pouvez rechercher si votre question a déjà été posé mais cela ne nous intéresse pas ici.
 4. En haut de la page « *FAQ* », cliquez sur le bouton « *Ajouter une question ici* ».
@@ -209,11 +209,11 @@ Vous pouvez poser votre question sur la rubrique « *Foire aux questions* ». Po
 7. Si besoin, dans la deuxième ajoutez des précisions comme votre animal ou autre.
 8. Cliquez sur le bouton « *Soumettre ma question* »
 
-## 8. 📞 Contactez nous
+## 8. 📞 Contactez-nous
 
 Vous avez une question, une remarque, N'hésitez pas à nous contacter !
 
 |                      |                                               |
 |----------------------|-----------------------------------------------|
 | Adresse email        | [contact@takea.vet](mailto:contact@takea.vet) |
-| Numéro de téléphone (fictif)  | [05 93 53 86 68](tel:+33593538668)            |
+| Numéro de téléphone  | [05 93 53 86 68](tel:+33593538668)            |
