@@ -24,6 +24,10 @@ cover:
     image: "tutoriel/takeavet/cover.png" # image path/url
     alt: "Cover du tutoriel" # alt text
     caption: "Source: Mylene2401 / Pixabay" # display caption under cover
+editPost:
+    URL: "takeavet.pdf"
+    Text: "Ouvrir la version PDF"
+    appendFilePath: false
 ---
 
 
@@ -111,7 +115,7 @@ Vous pouvez ensuite modifier ses informations ou le supprimer si vous le souhait
 
 ## 5. 🕐 Prendre son rendez-vous
 
-Maintenant nous allons voir le système de prise de rendez-vous et comment en prendre un. 
+Maintenant nous allons voir le système de prise de rendez-vous et comment en prendre un.
 
 > **⚠️ Attention**, Pour prendre rendez-vous vous devez avoir **un compte** et **une adresse** et **un animal**.
 
@@ -135,7 +139,7 @@ Vous pouvez modifier votre profil, changer votre mot de passe, votre avatar, vos
 
 1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. Cliquez sur votre profil en haut à droite de la page.
-3. Vous êtes maintenant sur la page de votre profil, vous pouvez donc faire les actions suivantes : 
+3. Vous êtes maintenant sur la page de votre profil, vous pouvez donc faire les actions suivantes :
    - Modifier votre image de profil *(votre avatar)*
    - Modifier vos informations personnelles
    - Modifier votre mot de passe
