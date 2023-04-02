@@ -33,13 +33,13 @@ cover:
 
 ## 2. ➕ S'inscrire sur TakeAVet
 
-Pour utiliser notre service il vous faut vous inscrire ou bien vous connecter si vous avez déjà un compte, mais rassurez-vous c'est très simple !
+Pour utiliser notre service, il vous faut vous inscrire ou bien vous connecter si vous avez déjà un compte, mais rassurez-vous, c'est très simple !
 
 ### 2.1 Créer un compte
 
 1. Rendez-vous sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
 2. ![Navbar](1_navbar.png) Cliquez sur le bouton « *Créer un compte* » en haut à droite de la page
-3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvre utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé.
+3. ![Formulaire d'inscription](1_register.png) Remplissez le formulaire d'inscription avec vos informations personnelles, pour le mot de passe vous pouvez utiliser un site comme [passwordsgenerator.net](https://passwordsgenerator.net/) pour générer un mot de passe aléatoire et sécurisé.
 
 > **⚠️ Attention** : Ne pas cocher la case « *Éleveur* » si vous n'êtes pas un éleveur !
 
@@ -59,15 +59,15 @@ Et voilà ! Vous avez maintenant un compte sur Take'A'Vet !
 Il est important de renseigner son adresse pour pouvoir prendre des rendez-vous, c'est pourquoi nous allons voir comment ajouter son adresse.
 
 1. **Rendez-vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. **Connectez vous** avec votre compte.
+2. **Connectez-vous** avec votre compte.
 3. ![Navbar](3_navbar.png) De retour sur la page d'accueil, **Cliquez** sur le bouton « *Mes adresses* » en haut à droite de la page.
-4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: Chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
+4. ![Formulaire](3_form.png) **Remplissez** le formulaire d'ajout d'adresse avec le nom de l'adresse *(exemple: chez moi, Travail, etc...)*, votre adresse *(exemple: 4 rue des iris)*, votre code postal et votre ville.
 5. Puis **cliquez** sur le bouton « *Ajoutez* » en bas du formulaire.
 6. ![Adresse](3_address.png) **C'est terminé !** Vous avez maintenant une adresse enregistrée sur votre compte.
 
 Il est important de noter que vous pouvez **ajouter plusieurs adresses**, par exemple si vous avez un appartement et une maison, vous pouvez ajouter les deux adresses.
 
-> **⚠️ Attention** : Les adresses doivent être obligatoirement en **France**.
+> **⚠️ Attention** : les adresses doivent être obligatoirement en **France**.
 
 ## 4. 🐶 Ajouter son animal
 
@@ -78,7 +78,7 @@ Maintenant que vous avez un compte et une adresse nous allons apprendre à ajout
 C'est sur cette page que vous allez pouvoir ajouter, modifier ou supprimer vos animaux, mais aussi voir leurs informations.
 
 1. **Rendez-vous** sur la page d'accueil du site [https://takeavet.fr/](http://10.31.11.105/).
-2. **Connectez vous** avec votre compte.
+2. **Connectez-vous** avec votre compte.
 3. ![Navbar](4_navbar.png) En haut à droite de la page, **cliquez** sur la rubrique « *Mes animaux* ».
 4. ![Page « Mes animaux »](4_page.png) Vous êtes maintenant sur la page « *Mes animaux* », vous pouvez accéder aux informations de vos animaux et les modifier si besoin.
 
